@@ -2,5 +2,5 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
-2. ❗️ Opened issue [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
+2. 🗣 Commented on [#55](https://github.com/trackercli/covid19-tracker-cli/issues/55) in [trackercli/covid19-tracker-cli](https://github.com/trackercli/covid19-tracker-cli)
 <!--END_SECTION:activity-->

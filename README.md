@@ -7,6 +7,6 @@ https://user-images.githubusercontent.com/10413754/132122982-e0b4aa3b-4ec2-4a05-
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/jkga/3dpcalc/issues/14) in [jkga/3dpcalc](https://github.com/jkga/3dpcalc)
-2. 🎉 Merged PR [#15](https://github.com/jkga/3dpcalc/pull/15) in [jkga/3dpcalc](https://github.com/jkga/3dpcalc)
+1. 🎉 Merged PR [#1](https://github.com/jkga/katalogo/pull/1) in [jkga/katalogo](https://github.com/jkga/katalogo)
+2. 💪 Opened PR [#1](https://github.com/jkga/katalogo/pull/1) in [jkga/katalogo](https://github.com/jkga/katalogo)
 <!--END_SECTION:activity-->

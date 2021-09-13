@@ -7,6 +7,6 @@ https://user-images.githubusercontent.com/10413754/132122982-e0b4aa3b-4ec2-4a05-
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jkga/katalogo/pull/2) in [jkga/katalogo](https://github.com/jkga/katalogo)
-2. 💪 Opened PR [#2](https://github.com/jkga/katalogo/pull/2) in [jkga/katalogo](https://github.com/jkga/katalogo)
+1. ❌ Closed PR [#14](https://github.com/jkga/me/pull/14) in [jkga/me](https://github.com/jkga/me)
+2. ❌ Closed PR [#13](https://github.com/jkga/me/pull/13) in [jkga/me](https://github.com/jkga/me)
 <!--END_SECTION:activity-->

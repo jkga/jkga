@@ -7,6 +7,6 @@ https://user-images.githubusercontent.com/10413754/132122982-e0b4aa3b-4ec2-4a05-
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/jkga/me/pull/14) in [jkga/me](https://github.com/jkga/me)
-2. ❌ Closed PR [#13](https://github.com/jkga/me/pull/13) in [jkga/me](https://github.com/jkga/me)
+1. 🗣 Commented on [#178](https://github.com/yaronn/blessed-contrib/issues/178) in [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib)
+2. ❌ Closed PR [#14](https://github.com/jkga/me/pull/14) in [jkga/me](https://github.com/jkga/me)
 <!--END_SECTION:activity-->

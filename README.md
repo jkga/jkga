@@ -6,6 +6,6 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#223](https://github.com/yaronn/blessed-contrib/pull/223) in [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib)
-2. ❌ Closed PR [#222](https://github.com/yaronn/blessed-contrib/pull/222) in [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib)
+1. ❌ Closed PR [#20](https://github.com/jkga/my_website/pull/20) in [jkga/my_website](https://github.com/jkga/my_website)
+2. ❌ Closed PR [#19](https://github.com/jkga/my_website/pull/19) in [jkga/my_website](https://github.com/jkga/my_website)
 <!--END_SECTION:activity-->

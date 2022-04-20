@@ -6,6 +6,6 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#20](https://github.com/jkga/my_website/pull/20) in [jkga/my_website](https://github.com/jkga/my_website)
-2. ❌ Closed PR [#19](https://github.com/jkga/my_website/pull/19) in [jkga/my_website](https://github.com/jkga/my_website)
+1. ❌ Closed PR [#6](https://github.com/jkga/is-web-monetized/pull/6) in [jkga/is-web-monetized](https://github.com/jkga/is-web-monetized)
+2. ❌ Closed PR [#8](https://github.com/jkga/is-web-monetized/pull/8) in [jkga/is-web-monetized](https://github.com/jkga/is-web-monetized)
 <!--END_SECTION:activity-->
